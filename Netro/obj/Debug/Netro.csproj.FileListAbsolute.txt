@@ -1,0 +1,7 @@
+C:\Users\Richard\source\repos\Netro\Netro\bin\Debug\Netro.exe.config
+C:\Users\Richard\source\repos\Netro\Netro\bin\Debug\Netro.exe
+C:\Users\Richard\source\repos\Netro\Netro\bin\Debug\Netro.pdb
+C:\Users\Richard\source\repos\Netro\Netro\obj\Debug\Netro.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\Netro\Netro\obj\Debug\Netro.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Netro\Netro\obj\Debug\Netro.exe
+C:\Users\Richard\source\repos\Netro\Netro\obj\Debug\Netro.pdb

@@ -42,7 +42,6 @@ namespace Netro
             if (netroStatus.CurrentType == NetroStatus.Type.None)
             {
                 Console.WriteLine("Netro not running, missing arguments?");
-                Console.WriteLine("Check https://github.com/eirikb/Netro for usage examples");
                 return;
             }
 

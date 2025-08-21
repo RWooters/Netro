@@ -42,7 +42,7 @@ namespace Netro
             Console.SetCursorPosition(0, 0);
             Console.Write("Loading...");
 
-            DrawLogo();
+            //DrawLogo();
             SetConnectedStatus(false);
             SetType();
             _status.OnConnect(SetConnectedStatus);
