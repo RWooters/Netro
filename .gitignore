@@ -13,3 +13,9 @@
 /.vs/Netro/FileContentIndex/read.lock
 /.vs/Netro
 /Netro/bin/Debug
+/Netro/bin/Release
+/Netro/obj/Release
+/NetroTest/obj/Debug/NetroTest.csproj.FileListAbsolute.txt
+*.pdb
+/NetroTest/obj/Release
+/NetroTest/bin/Release
